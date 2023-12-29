@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703805838440,
+      "tag": "0000_omniscient_matthew_murdock",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703888696109,
+      "tag": "0001_mixed_titanium_man",
+      "breakpoints": true
+    }
+  ]
+}
